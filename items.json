@@ -1,0 +1,52 @@
+{
+    "albums":[
+        {
+            "id":"1",
+            "name":"Album 1",
+            "price":"11200",
+            "imgSrc":"blackpink_comabackalbum'.jpeg"
+        },
+        {
+            "id":"2",
+            "name":"Album 2",
+            "price":"11600",
+            "imgSrc":"blackpinkconcertalbum.jpeg"
+        }
+    ],
+    "merch_and_accessories":[
+        {
+            "id":"3",
+            "name":"Blackpink tracksuit",
+            "price":"10000",
+            "imgSrc":"blackpinkmerch1.jpeg"
+        },
+        {
+            
+            "id":"4",
+            "name":"Blackpink Hoodie",
+            "price":"20000",
+            "imgSrc":"blackpinkmerch2.jpg"
+        },
+        {
+            
+            "id":"5",
+            "name":"Blackpink Airpods",
+            "price":"30000",
+            "imgSrc":"blackpinkairpods.jpeg"
+        },
+        {
+            
+            "id":"6",
+            "name":"Blackpink accessories",
+            "price":"6000",
+            "imgSrc":"blackpink_accessories.jpeg"
+        },
+        {
+            
+            "id":"7",
+            "name":"Blackpink mask",
+            "price":"2000",
+            "imgSrc":"blackpinkmask.jpeg"
+        }
+    ]
+}
